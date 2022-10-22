@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#current-status {
+    margin: 20px;
+    font-family: sans-serif;
+    color: rgb(20, 20, 20);
+}
