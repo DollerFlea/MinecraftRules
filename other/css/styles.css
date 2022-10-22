@@ -1,10 +1,25 @@
+/*
+
+
+v.1.00 uploaded to gitpages at 22.10.22 2:02pm at a saturday 
+v.1.01 uploaded to gitpages around 22.10.22 11:42pm at a saturday
+
+
+*/
+
+
 * {
     margin: 0px;
     padding: 0px;
 }
 
-#current-status {
-    margin: 20px;
-    font-family: sans-serif;
-    color: rgb(20, 20, 20);
+.logo-text {
+    font-size: 50px;
+}
+
+@media screen and (max-width: 420px){
+    .logo-text {
+        font-size: 5px;
+        color: red;
+    }
 }
